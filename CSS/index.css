@@ -1,0 +1,29 @@
+.banner-display{
+    background: url("../IMAGES/pexels-photo-616401.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu-search{
+    width: 350px;
+    height: 50px;
+    border-radius: 30px;
+    text-align: center;
+    border: none;
+}
+.search-button{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-left: 20px;
+    background-color: orange;
+    border: 2px solid white;
+}
+.search-icon{
+    color: white;
+}
